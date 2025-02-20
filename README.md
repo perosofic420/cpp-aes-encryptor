@@ -1,2 +1,2 @@
 # cpp-aes-encryptor
-CLI AES encryptor/decryptor written in C++
+CLI AES encryptor/decryptor written in C++ using cryptopp
